@@ -59,15 +59,15 @@ The notebook will guide you through loading the data, preprocessing it, and buil
 
 The following metrics are used to evaluate the model:
 
--**Mean Squared Error (MSE):** Measures the average squared difference between predicted and actual values.
--**Mean Absolute Error (MAE):** Measures the average absolute difference between predicted and actual values.
--**Root Mean Squared Error (RMSE):** The square root of MSE, providing error metrics in the same units as the target variable.
--**R² Score:** Represents the proportion of variance in the target variable explained by the model.
+- **Mean Squared Error (MSE):** Measures the average squared difference between predicted and actual values.
+- **Mean Absolute Error (MAE):** Measures the average absolute difference between predicted and actual values.
+- **Root Mean Squared Error (RMSE):** The square root of MSE, providing error metrics in the same units as the target variable.
+- **R² Score:** Represents the proportion of variance in the target variable explained by the model.
 
 ## Conclusion
 
 This project demonstrates the use of linear regression for house price prediction. By handling missing values, generating dummy variables for categorical data, and using Ridge and Lasso regressions, we aim to create a model that generalizes well on new data.
 
-```vbnet```
+```vbnet
 ### How to Personalize It
-```- Replace `https://github.com/your-username/your-repository-name.git` with the actual URL of your GitHub repository.```
+- Replace `https://github.com/your-username/your-repository-name.git` with the actual URL of your GitHub repository.```
